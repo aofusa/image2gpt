@@ -1,0 +1,10 @@
+# .gitignore
+
+# Python関連の一時ファイルやキャッシュを無視
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# .env ファイルを無視
+.env
